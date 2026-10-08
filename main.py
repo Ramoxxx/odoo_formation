@@ -4,3 +4,7 @@ def hello():
     
 def fonction1():
     return True
+
+def login():
+    print("logging in...")
+    return True
