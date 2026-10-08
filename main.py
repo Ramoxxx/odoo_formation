@@ -4,3 +4,7 @@ def hello():
     
 def fonction1():
     return True
+
+def dev_avance():
+    print("dev is movig forward")
+    return False
