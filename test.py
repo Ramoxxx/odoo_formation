@@ -6,3 +6,6 @@ def correction1():
 
 def instable():
     return False
+
+def ok():
+    pass
