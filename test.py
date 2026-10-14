@@ -7,5 +7,5 @@ def correction1():
 def instable():
     return False
 
-def ok():
-    pass
+def ok():    
+    return True
